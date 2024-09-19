@@ -1,0 +1,7 @@
+PyPDF2
+chromadb
+langchain_groq
+langchain
+langchain-community
+streamlit
+sentence-transformers

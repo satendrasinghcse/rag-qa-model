@@ -1,4 +1,4 @@
-from uility import *
+from utility import *
 import streamlit as st # type: ignore
 import warnings 
 

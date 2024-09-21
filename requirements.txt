@@ -1,7 +1,8 @@
-PyPDF2
-chromadb
-langchain_groq
+python-dotenv
 langchain
 langchain-community
-streamlit
+langchain-groq
+pypdf
 sentence-transformers
+chromadb
+streamlit==1.38.0

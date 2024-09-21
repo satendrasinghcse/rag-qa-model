@@ -7,3 +7,13 @@
 ```streamlit run index.py```
 
 ## 3. upload files all file 
+![Alt text](images/qa.png)
+
+## 4. start training
+![Alt text](images/qa_start.png)
+
+## 5. ask your question based on your document
+![Alt text](images/qa_question.png)
+
+## 6. you got your answer
+![Alt text](images/qa_answer.png)

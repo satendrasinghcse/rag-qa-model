@@ -9,9 +9,7 @@ from langchain.chains import RetrievalQA
 
 # Load environment variables from .env file
 load_dotenv()
-#hf_key = os.getenv("huggingface_api_key")
-#groq_key = os.getenv("groq_api_key")
-groq_key = "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"
+groq_key = os.getenv("groq_api_key")
 
 def load_pdf(data_dir):
     """Load PDF documents from a specified directory."""
